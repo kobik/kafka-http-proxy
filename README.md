@@ -1,5 +1,7 @@
 ## Synopsis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kobik/kafka-http-proxy.svg)](https://greenkeeper.io/)
+
 A simple and straight forward Kafka HTTP proxy
 
 ## Motivation
